@@ -34,7 +34,7 @@ Proteus simulation files for each exercise:
 - **`.pdsprj`** — the Proteus project file containing the circuit schematic and simulation setup.
 
 ### `STM32CubeIDE`
-Contains `.h` and `.c` files in `lab04_micro_process_control\STM32CubeIDE\lab04\Core\Inc` and `lab04_micro_process_control\STM32CubeIDE\lab04\Core\Src` respectively.
+Contains `.h` and `.c` files in `lab04_micro_process_control\STM32CubeIDE\lab04\lab4s\Core\Inc` and `lab04_micro_process_control\STM32CubeIDE\lab04\lab4\Core\Src` respectively.
 You can open the whole project on your own STM32CubeIDE application, but may encounter directory conflict. Although the app support to rebuild directory to yours, but it not may ensure data integrity.
 
 ## Building the Report
